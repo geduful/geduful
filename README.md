@@ -1,37 +1,52 @@
-## Hi there I'M Godfred Eduful
+# Godfred Eduful
 
-**Tech Entrepreneur | Software Developer | Graphic Designer**
+**Full-Stack Developer | Computer Science Student | Graphic Designer | Tech Innovator**
 
-Based in Ghana, I am a Computer Science developer, designer, and tech innovator focused on building impactful digital solutions and robust system architectures.
+I am a Computer Science student and Full-Stack Developer based in Ghana, passionate about building modern, secure, and impactful digital solutions.
 
----
+I combine software development, UI/UX thinking, and graphic design to create digital experiences that are functional, accessible, and visually engaging.
 
-## Ventures & Core Tech Projects
+## What I Do
 
-### KP Group of Companies
-* **Role:** Founder & Lead Developer  
-* **Impact:** Established the core enterprise digital framework and service portal, structuring operational workflows and modern web layouts to expand corporate reach.
-* **Live Site:** [kpgroupofcompanies.netlify.app](https://kpgroupofcompanies.netlify.app/)
+- Full-Stack Web Development
+- Frontend & Backend Development
+- REST API Development
+- Database Design & Integration
+- UI/UX & Graphic Design
+- AI & Automation Solutions
+- Website Deployment & Security
+
+## Featured Projects
 
 ### TheFarmYard
-* **Role:** Project Lead & Software Architect  
-* **Impact:** Conceptualized and engineered an intelligent agricultural tracking ecosystem focused on optimizing resource logistics and farm management efficiency.
+A digital platform designed to connect farmers directly with buyers, helping reduce unnecessary middlemen and improve access to agricultural markets.
 
-### Acadex Platform
-* **Role:** Co-Founder & Developer  
-* **Impact:** Partnered alongside my colleague, Rosemary Boahemaa Dwamena, to co-found, model, and deploy the Acadex student management infrastructure.
+### Nuella's Klothing
+A modern digital presence for a bespoke tailoring and fashion brand based in Ghana.
+
+### KP Group
+A corporate web platform designed to present a group of companies and their services through a modern digital experience.
+
+## Tech Stack
+
+**Languages:** HTML, CSS, JavaScript, Python
+
+**Frontend:** React, Tailwind CSS
+
+**Backend:** Node.js, Express, Flask
+
+**Database:** MySQL, PostgreSQL, MongoDB
+
+**Tools:** Git, GitHub, VS Code
+
+**Deployment:** Vercel, Netlify, GitHub Pages
+
+## Connect With Me
+
+- LinkedIn: [Godfred Eduful](YOUR_LINKEDIN_URL)
+- Portfolio: [godfrededuful.com](YOUR_PORTFOLIO_URL)
+- GitHub: [Godfred Eduful](YOUR_GITHUB_URL)
 
 ---
 
-## Digital Design & Development
-* Bridging high-fidelity corporate graphic identity design with engineering workflows.
-* Open-source contributor specializing in UI/UX systems modeling and frontend layout optimization.
-
----
-
-## 🔗 Professional Networks
-* **LinkedIn:** [Godfred Eduful on LinkedIn](https://www.linkedin.com/in/godfred-eduful-743b2b350/)
-* **GitHub Profile:** [geduful on GitHub](https://github.com)
-
----
-*This official index profile is configured for search crawler discovery.*
+Building technology. Creating impact.
