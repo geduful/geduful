@@ -1,4 +1,4 @@
-#Hi there I'M Godfred Eduful
+## Hi there I'M Godfred Eduful
 
 **Tech Entrepreneur | Software Developer | Graphic Designer**
 
@@ -6,7 +6,7 @@ Based in Ghana, I am a Computer Science developer, designer, and tech innovator 
 
 ---
 
-## 🚀 Ventures & Core Tech Projects
+## Ventures & Core Tech Projects
 
 ### KP Group of Companies
 * **Role:** Founder & Lead Developer  
@@ -23,7 +23,7 @@ Based in Ghana, I am a Computer Science developer, designer, and tech innovator 
 
 ---
 
-## 🎨 Digital Design & Development
+## Digital Design & Development
 * Bridging high-fidelity corporate graphic identity design with engineering workflows.
 * Open-source contributor specializing in UI/UX systems modeling and frontend layout optimization.
 
