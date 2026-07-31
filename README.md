@@ -1,4 +1,6 @@
-# Godfred Eduful
+<div align="center">
+  
+# hey, I’m Godfred Eduful 
 
 **Full-Stack Developer | Computer Science Student | Graphic Designer | Tech Innovator**
 
@@ -6,6 +8,7 @@ I am a Computer Science student and Full-Stack Developer based in Ghana, passion
 
 I combine software development, UI/UX thinking, and graphic design to create digital experiences that are functional, accessible, and visually engaging.
 
+</div>
 ## What I Do
 
 - Full-Stack Web Development
