@@ -46,8 +46,8 @@ A corporate web platform designed to present a group of companies and their serv
 
 ## Connect With Me
 
-- LinkedIn: [Godfred Eduful](https://www.linkedin.com/in/godfred-eduful-743b2b350/)
-- Portfolio: [godfrededuful.com](YOUR_PORTFOLIO_URL)
+- Portfolio: [Godfred Eduful](https://godfrededuful.vercel.app)
+- LinkedIn: [Godfred Eduful](https://www.linkedin.com/in/godfred-eduful-743b2b350)
 - GitHub: [Godfred Eduful](https://github.com/geduful)
 
 ---
