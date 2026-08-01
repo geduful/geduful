@@ -9,8 +9,8 @@ I am a Computer Science student and Full-Stack Developer based in Ghana, passion
 I combine software development, UI/UX thinking, and graphic design to create digital experiences that are functional, accessible, and visually engaging.
 
 </div>
-## What I Do
 
+# What I Do 
 - Full-Stack Web Development
 - Frontend & Backend Development
 - REST API Development
@@ -46,9 +46,9 @@ A corporate web platform designed to present a group of companies and their serv
 
 ## Connect With Me
 
-- LinkedIn: [Godfred Eduful](YOUR_LINKEDIN_URL)
+- LinkedIn: [Godfred Eduful](https://www.linkedin.com/in/godfred-eduful-743b2b350/)
 - Portfolio: [godfrededuful.com](YOUR_PORTFOLIO_URL)
-- GitHub: [Godfred Eduful](YOUR_GITHUB_URL)
+- GitHub: [Godfred Eduful](https://github.com/geduful)
 
 ---
 
